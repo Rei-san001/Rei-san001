@@ -23,9 +23,9 @@
 
 
 ## ✨ My Stats:
-![](https://github-readme-stats.vercel.app/api?username=no&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=Rei-san001&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=no&theme=blueberry&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=no&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rei-san001&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ## 🌐 Connect with me:
