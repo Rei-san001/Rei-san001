@@ -2,7 +2,7 @@
 <h3 align="center">Your friendly neighborhood coder!</h3>
 
 ## 💫 About Me:
-<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/ncWGEFQO73kAAAAC/glasses-anime.gif">
+<img align="right" height="150" src="https://media1.tenor.com/m/WV-bIZetdpQAAAAC/butterfly-anime.gif"  />
 
 - 🌱 I’m currently learning: **Full Stack Web Development with JavaScript (MERN)**
 
