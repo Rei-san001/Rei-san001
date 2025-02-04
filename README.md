@@ -23,6 +23,6 @@
 
 
 
-## 🌐 Connect with me:
+## 🌐 Connect With Me:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/rei_4888) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rei.san___) 
 
