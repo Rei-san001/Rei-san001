@@ -4,7 +4,7 @@
 ## 💫 About Me:
 <img align="right" height="150" src="https://media1.tenor.com/m/WV-bIZetdpQAAAAC/butterfly-anime.gif"  />
 
-- 🌱 I’m currently learning: **Full Stack Web Development with JavaScript (MERN)**
+- 🌱 I’m currently learning: **Things about competitive programming**
 
 - 💬 Ask me about: **Competitive Programming and PC**
 
