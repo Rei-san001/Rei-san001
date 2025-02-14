@@ -10,7 +10,7 @@
 
 - 📫 How to reach me: **nahidbinislam674@gmail.com**
 
-- ⚡ Fun fact: **I talk to my pc**
+- ⚡ Fun fact: **I talk to my **
 
 
 ## 💻 Languages and Tools:
