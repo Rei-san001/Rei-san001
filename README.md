@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning: **Things about competitive programming**
 
-- 💬 Ask me about: **Competitive Programming and PC**
+- 💬 Ask me about: **Competitive Programming and PC. Also about books!**
 
 - 📫 How to reach me: **nahidbinislam674@gmail.com**
 
