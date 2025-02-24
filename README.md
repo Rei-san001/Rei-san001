@@ -10,7 +10,7 @@
 
 - 📫 How to reach me: **nahidbinislam674@gmail.com**
 
-- ⚡ Fun fact: **I love mechanical keyboards!**
+- ⚡ Fun fact: **I love mechanical keyboards**
 
 
 ## 💻 Languages and Tools:
