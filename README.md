@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Nahid:3</h1>
+<h1 align="center">Hi, I'm Nahid :3</h1>
 <h3 align="center">Your friendly neighborhood coder!</h3>
 
 ## 💫 About Me:
